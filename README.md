@@ -1,5 +1,5 @@
 # Elephants2Zebras
-A CycleGAN to convert elephants to horse (adding stripes to elephants) using Tensorflow
+A CycleGAN to convert elephants to zebra (adding stripes to elephants) using Tensorflow
 
 Image size considered is 256x256x3
 
